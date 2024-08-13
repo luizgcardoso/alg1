@@ -1,0 +1,10 @@
+inicio
+    real: n1, n2, n3, n4, ma;
+    leia (n1, n2, n3, n4);
+    ma <- (n1+n2+n3+n4)/4;
+    escreva(ma);
+    se(ma+>7) entao
+
+
+
+fimx
